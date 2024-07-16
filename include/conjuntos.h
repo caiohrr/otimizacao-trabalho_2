@@ -3,13 +3,13 @@
 #include <stdint.h>
 
 typedef struct conjunto {
-        uint32_t tam;
-        uint32_t *elementos;
+        int32_t tam;
+        int32_t *elementos;
 } conjunto;
 
-uint32_t *criarVetorUint32(uint32_t n);
+int32_t *criarVetorInt32(int32_t n);
 
-conjunto *criarConjunto(uint32_t tam);
+conjunto *criarConjunto(int32_t tam);
 
 void destruirConjunto(conjunto *conj);
 

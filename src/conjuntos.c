@@ -1,7 +1,7 @@
 #include "conjuntos.h"
 
-uint32_t *criarVetorUint32(uint32_t n) {
-        uint32_t *vetor = malloc(sizeof(uint32_t) * n);
+int32_t *criarVetorInt32(int32_t n) {
+        int32_t *vetor = malloc(sizeof(int32_t) * n);
         if (vetor == NULL) {
                 return NULL;
         }
@@ -9,14 +9,14 @@ uint32_t *criarVetorUint32(uint32_t n) {
         return vetor;
 }
 
-conjunto *criarConjunto(uint32_t tam) {
+conjunto *criarConjunto(int32_t tam) {
         conjunto *conj = malloc(sizeof(conjunto));
         if (conj == NULL) {
                 return NULL;
         }
 
         conj->tam = tam;
-        conj->elementos = criarVetorUint32(tam);
+        conj->elementos = criarVetorInt32(tam);
 
         if (conj->elementos == NULL) {
                 return NULL;
@@ -31,8 +31,9 @@ void destruirConjunto(conjunto *conj) {
 }
 
 void imprimirConjunto(conjunto *conj) {
-        for (uint32_t i = 0; i < conj->tam; i++) {
-                printf("%u ", conj->elementos[i]);
+        printf("%d:", conj->tam);
+        for (int32_t i = 0; i < conj->tam; i++) {
+                printf(" %d", conj->elementos[i]);
         }
         printf("\n");
 }
