@@ -1,0 +1,33 @@
+Utilizando a função bound do professor
+3 4 7 12 
+Nodos percorridos = 6427
+Utilizando a função bound do professor
+5 8 16 
+Nodos percorridos = 1101
+Utilizando a função bound do professor
+1 10 15 18 
+Nodos percorridos = 4381
+Utilizando a função bound do professor
+1 10 15 16 
+Nodos percorridos = 3215
+Utilizando a função bound do professor
+1 2 11 15 17 
+Nodos percorridos = 20129
+Utilizando a função bound do professor
+1 6 16 19 24 
+Nodos percorridos = 47381
+Utilizando a função bound do professor
+1 5 
+Nodos percorridos = 31
+Utilizando a função bound do professor
+3 5 
+Nodos percorridos = 87
+Utilizando a função bound do professor
+2 4 5 
+Nodos percorridos = 177
+Utilizando a função bound do professor
+1 11 15 
+Nodos percorridos = 413
+Utilizando a função bound do professor
+1 2 4 13 
+Nodos percorridos = 2025

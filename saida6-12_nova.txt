@@ -1,0 +1,187 @@
+grupos = 6, candidatos = 12
+Utilizando uma nova função bound
+VALIDA ESCOLHIDOS!
+BOUND NOVA!
+VALIDA ESCOLHIDOS!
+
+i = 0
+ Escolhidos: 0 0 0 0 0 0 0 0 0 0 0 0 
+tamCandidatos: 2 2 4 2 3 1 3 2 3 2 3 1 
+tamCandidatos (ordenados): 4 3 3 3 3 2 2 2 2 2 1 1 
+bound = 2
+VALIDA ESCOLHIDOS!
+BOUND NOVA!
+VALIDA ESCOLHIDOS!
+
+i = 1
+ Escolhidos: 1 0 0 0 0 0 0 0 0 0 0 0 
+tamCandidatos: 0 2 4 2 3 1 3 2 3 2 3 1 
+tamCandidatos (ordenados): 4 3 3 3 3 2 2 2 2 1 1 0 
+bound = 3
+VALIDA ESCOLHIDOS!
+BOUND NOVA!
+VALIDA ESCOLHIDOS!
+
+i = 2
+ Escolhidos: 1 1 0 0 0 0 0 0 0 0 0 0 
+tamCandidatos: 0 0 4 2 3 1 3 2 3 2 3 1 
+tamCandidatos (ordenados): 4 3 3 3 3 2 2 2 1 1 0 0 
+bound = 3
+VALIDA ESCOLHIDOS!
+BOUND NOVA!
+VALIDA ESCOLHIDOS!
+
+i = 3
+ Escolhidos: 1 1 1 0 0 0 0 0 0 0 0 0 
+tamCandidatos: 0 0 0 2 3 1 3 2 3 2 3 1 
+tamCandidatos (ordenados): 3 3 3 3 2 2 2 1 1 0 0 0 
+bound = 4
+VALIDA ESCOLHIDOS!
+VALIDA ESCOLHIDOS!
+BOUND NOVA!
+VALIDA ESCOLHIDOS!
+
+i = 4
+ Escolhidos: 1 1 1 0 0 0 0 0 0 0 0 0 
+tamCandidatos: 0 0 0 0 3 1 3 2 3 2 3 1 
+tamCandidatos (ordenados): 3 3 3 3 2 2 1 1 0 0 0 0 
+bound = 4
+VALIDA ESCOLHIDOS!
+BOUND NOVA!
+VALIDA ESCOLHIDOS!
+
+i = 3
+ Escolhidos: 1 1 0 0 0 0 0 0 0 0 0 0 
+tamCandidatos: 0 0 0 2 3 1 3 2 3 2 3 1 
+tamCandidatos (ordenados): 3 3 3 3 2 2 2 1 1 0 0 0 
+bound = 3
+VALIDA ESCOLHIDOS!
+BOUND NOVA!
+VALIDA ESCOLHIDOS!
+
+i = 4
+ Escolhidos: 1 1 0 1 0 0 0 0 0 0 0 0 
+tamCandidatos: 0 0 0 0 3 1 3 2 3 2 3 1 
+tamCandidatos (ordenados): 3 3 3 3 2 2 1 1 0 0 0 0 
+bound = 4
+VALIDA ESCOLHIDOS!
+BOUND NOVA!
+VALIDA ESCOLHIDOS!
+
+i = 4
+ Escolhidos: 1 1 0 0 0 0 0 0 0 0 0 0 
+tamCandidatos: 0 0 0 0 3 1 3 2 3 2 3 1 
+tamCandidatos (ordenados): 3 3 3 3 2 2 1 1 0 0 0 0 
+bound = 4
+VALIDA ESCOLHIDOS!
+BOUND NOVA!
+VALIDA ESCOLHIDOS!
+
+i = 2
+ Escolhidos: 1 0 0 0 0 0 0 0 0 0 0 0 
+tamCandidatos: 0 0 4 2 3 1 3 2 3 2 3 1 
+tamCandidatos (ordenados): 4 3 3 3 3 2 2 2 1 1 0 0 
+bound = 3
+VALIDA ESCOLHIDOS!
+BOUND NOVA!
+VALIDA ESCOLHIDOS!
+
+i = 3
+ Escolhidos: 1 0 1 0 0 0 0 0 0 0 0 0 
+tamCandidatos: 0 0 0 2 3 1 3 2 3 2 3 1 
+tamCandidatos (ordenados): 3 3 3 3 2 2 2 1 1 0 0 0 
+bound = 3
+VALIDA ESCOLHIDOS!
+VALIDA ESCOLHIDOS!
+BOUND NOVA!
+VALIDA ESCOLHIDOS!
+
+i = 4
+ Escolhidos: 1 0 1 0 0 0 0 0 0 0 0 0 
+tamCandidatos: 0 0 0 0 3 1 3 2 3 2 3 1 
+tamCandidatos (ordenados): 3 3 3 3 2 2 1 1 0 0 0 0 
+bound = 3
+VALIDA ESCOLHIDOS!
+BOUND NOVA!
+VALIDA ESCOLHIDOS!
+
+i = 3
+ Escolhidos: 1 0 0 0 0 0 0 0 0 0 0 0 
+tamCandidatos: 0 0 0 2 3 1 3 2 3 2 3 1 
+tamCandidatos (ordenados): 3 3 3 3 2 2 2 1 1 0 0 0 
+bound = 3
+VALIDA ESCOLHIDOS!
+BOUND NOVA!
+VALIDA ESCOLHIDOS!
+
+i = 1
+ Escolhidos: 0 0 0 0 0 0 0 0 0 0 0 0 
+tamCandidatos: 0 2 4 2 3 1 3 2 3 2 3 1 
+tamCandidatos (ordenados): 4 3 3 3 3 2 2 2 2 1 1 0 
+bound = 2
+VALIDA ESCOLHIDOS!
+BOUND NOVA!
+VALIDA ESCOLHIDOS!
+
+i = 2
+ Escolhidos: 0 1 0 0 0 0 0 0 0 0 0 0 
+tamCandidatos: 0 0 4 2 3 1 3 2 3 2 3 1 
+tamCandidatos (ordenados): 4 3 3 3 3 2 2 2 1 1 0 0 
+bound = 3
+VALIDA ESCOLHIDOS!
+BOUND NOVA!
+VALIDA ESCOLHIDOS!
+
+i = 2
+ Escolhidos: 0 0 0 0 0 0 0 0 0 0 0 0 
+tamCandidatos: 0 0 4 2 3 1 3 2 3 2 3 1 
+tamCandidatos (ordenados): 4 3 3 3 3 2 2 2 1 1 0 0 
+bound = 2
+VALIDA ESCOLHIDOS!
+BOUND NOVA!
+VALIDA ESCOLHIDOS!
+
+i = 3
+ Escolhidos: 0 0 1 0 0 0 0 0 0 0 0 0 
+tamCandidatos: 0 0 0 2 3 1 3 2 3 2 3 1 
+tamCandidatos (ordenados): 3 3 3 3 2 2 2 1 1 0 0 0 
+bound = 2
+VALIDA ESCOLHIDOS!
+BOUND NOVA!
+VALIDA ESCOLHIDOS!
+
+i = 4
+ Escolhidos: 0 0 1 1 0 0 0 0 0 0 0 0 
+tamCandidatos: 0 0 0 0 3 1 3 2 3 2 3 1 
+tamCandidatos (ordenados): 3 3 3 3 2 2 1 1 0 0 0 0 
+bound = 3
+VALIDA ESCOLHIDOS!
+BOUND NOVA!
+VALIDA ESCOLHIDOS!
+
+i = 4
+ Escolhidos: 0 0 1 0 0 0 0 0 0 0 0 0 
+tamCandidatos: 0 0 0 0 3 1 3 2 3 2 3 1 
+tamCandidatos (ordenados): 3 3 3 3 2 2 1 1 0 0 0 0 
+bound = 2
+VALIDA ESCOLHIDOS!
+VALIDA ESCOLHIDOS!
+BOUND NOVA!
+VALIDA ESCOLHIDOS!
+
+i = 5
+ Escolhidos: 0 0 1 0 0 0 0 0 0 0 0 0 
+tamCandidatos: 0 0 0 0 0 1 3 2 3 2 3 1 
+tamCandidatos (ordenados): 3 3 3 2 2 1 1 0 0 0 0 0 
+bound = 3
+VALIDA ESCOLHIDOS!
+BOUND NOVA!
+VALIDA ESCOLHIDOS!
+
+i = 3
+ Escolhidos: 0 0 0 0 0 0 0 0 0 0 0 0 
+tamCandidatos: 0 0 0 2 3 1 3 2 3 2 3 1 
+tamCandidatos (ordenados): 3 3 3 3 2 2 2 1 1 0 0 0 
+bound = 3
+3 5 
+Nodos percorridos = 23

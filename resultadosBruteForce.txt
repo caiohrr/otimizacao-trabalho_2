@@ -1,0 +1,33 @@
+Utilizando uma nova função bound
+3 4 7 12 
+Nodos percorridos = 2097151
+Utilizando uma nova função bound
+5 8 16 
+Nodos percorridos = 131071
+Utilizando uma nova função bound
+1 10 15 18 
+Nodos percorridos = 2097151
+Utilizando uma nova função bound
+1 10 15 16 
+Nodos percorridos = 524287
+Utilizando uma nova função bound
+1 2 11 15 17 
+Nodos percorridos = 8388607
+Utilizando uma nova função bound
+1 6 16 19 24 
+Nodos percorridos = 67108863
+Utilizando uma nova função bound
+1 5 
+Nodos percorridos = 2047
+Utilizando uma nova função bound
+3 5 
+Nodos percorridos = 8191
+Utilizando uma nova função bound
+2 4 5 
+Nodos percorridos = 1023
+Utilizando uma nova função bound
+1 11 15 
+Nodos percorridos = 65535
+Utilizando uma nova função bound
+1 2 4 13 
+Nodos percorridos = 524287
